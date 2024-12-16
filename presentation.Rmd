@@ -1,0 +1,26 @@
+---
+title: "Projet_final"
+author: "BRIERE Gautier"
+date: "Due: 15 décembre 2024 à 23h59"
+output: 
+  github_document: 
+    fig_height: 4
+    fig_width: 7
+---
+
+```{r setup, include = FALSE}
+# définissez l'option echo sur FALSE pour voir à quoi ressemble le document avec le code supprimé
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Déclaration d'honnêteté académique
+
+Je, BRIERE Gautier, déclare par la présente que je n'ai pas communiqué avec ou obtenu des informations de quelque manière que ce soit de mes camarades de classe ou de quiconque autre que le professeur ou l'assistant pendant cet examen, et que tout le travail est le mien.
+
+## Charger les packages
+
+```{r load-packages, message=FALSE}
+# charger les packages requis ici
+```
+
+## Questions
